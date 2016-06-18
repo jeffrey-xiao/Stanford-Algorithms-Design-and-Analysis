@@ -7,7 +7,7 @@ import java.io.*;
  * Given 2SAT clauses in "2sat1.txt", "2sat2.txt", "2sat3.txt",
  * "2sat4.txt", "2sat5.txt", and "2sat6.txt"
  * 
- * Determine if they clauses are satisfiable
+ * Determine if the clauses are satisfiable
  * 
  */
 
